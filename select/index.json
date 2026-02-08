@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Bad Dreams",
+  "base_artist": "Teddy Swims",
+  "createdAt": "2026-02-08T12:42:18.912868Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Dreams",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/01_Bad_Dreams_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Dreams",
+      "artist": "Lyrics Born",
+      "has_synced": false,
+      "path": "select/02_Bad_Dreams_Lyrics_Born.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Dreams Interlude",
+      "artist": "Lyrics Born",
+      "has_synced": false,
+      "path": "select/03_Bad_Dreams_Interlude_Lyrics_Born.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shake It Off (Bad Dreams Part II)",
+      "artist": "Lyrics Born",
+      "has_synced": false,
+      "path": "select/04_Shake_It_Off_(Bad_Dreams_Part_II)_Lyrics_Born.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Living Bad Dreams",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/05_Living_Bad_Dreams_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Dreams",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/06_Bad_Dreams_Tricky.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Dreams",
+      "artist": "Phantogram",
+      "has_synced": true,
+      "path": "select/07_Bad_Dreams_Phantogram.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad Dreams",
+      "artist": "Graduate",
+      "has_synced": true,
+      "path": "select/08_Bad_Dreams_Graduate.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Dreams",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/09_Bad_Dreams_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad Dreams",
+      "artist": "Dream Evil",
+      "has_synced": true,
+      "path": "select/10_Bad_Dreams_Dream_Evil.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Dreams - Stripped",
+      "artist": "Faouzia",
+      "has_synced": true,
+      "path": "select/11_Bad_Dreams_-_Stripped_Faouzia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Dreams (Piano Version)",
+      "artist": "Faouzia",
+      "has_synced": true,
+      "path": "select/12_Bad_Dreams_(Piano_Version)_Faouzia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad Dreams",
+      "artist": "Bonnie Tyler",
+      "has_synced": false,
+      "path": "select/13_Bad_Dreams_Bonnie_Tyler.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Bad Dreams",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/14_Bad_Bad_Dreams_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad Dreams",
+      "artist": "Joywave",
+      "has_synced": true,
+      "path": "select/15_Bad_Dreams_Joywave.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bad Dreams",
+      "artist": "Lyrics Born",
+      "has_synced": false,
+      "path": "select/16_Bad_Dreams_Lyrics_Born.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bad Dreams (feat. 7Chariot)",
+      "artist": "Bakermat feat. 7Chariot",
+      "has_synced": true,
+      "path": "select/17_Bad_Dreams_(feat._7Chariot)_Bakermat_feat._7Chariot.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bad Dreams (feat. 7Chariot)",
+      "artist": "Bakermat, 7Chariot",
+      "has_synced": true,
+      "path": "select/18_Bad_Dreams_(feat._7Chariot)_Bakermat,_7Chariot.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Living Bad Dreams",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/19_Living_Bad_Dreams_Judas_Priest.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Dreams",
+      "artist": "Teddy Swims",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Dreams_Teddy_Swims.txt"
+    }
+  ]
+}
